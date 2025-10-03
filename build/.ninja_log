@@ -1,0 +1,6 @@
+# ninja log v7
+13	1532	7811636676001057	CMakeFiles/robot.dir/robot.cpp.obj	9160d14590df0296
+9	1659	7811636675913854	CMakeFiles/robot.dir/grid.cpp.obj	2c5ed173d43c11f7
+5	1721	7811636675913854	CMakeFiles/robot.dir/main.cpp.obj	8c973aa0a4994809
+17	1736	7811636676052390	CMakeFiles/robot.dir/command.cpp.obj	7c3da5aeb15eae5c
+1736	1927	7811636693223487	robot.exe	b3bb99969f5eb597

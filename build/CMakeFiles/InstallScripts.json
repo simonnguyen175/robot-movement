@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/cococ/robot-movement/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

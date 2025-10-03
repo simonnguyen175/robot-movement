@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/cococ/robot-movement/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\robot.dir\\main.cpp.obj -c D:\\cococ\\robot-movement\\main.cpp",
+  "file": "D:/cococ/robot-movement/main.cpp",
+  "output": "D:/cococ/robot-movement/build/CMakeFiles/robot.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/cococ/robot-movement/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\robot.dir\\grid.cpp.obj -c D:\\cococ\\robot-movement\\grid.cpp",
+  "file": "D:/cococ/robot-movement/grid.cpp",
+  "output": "D:/cococ/robot-movement/build/CMakeFiles/robot.dir/grid.cpp.obj"
+},
+{
+  "directory": "D:/cococ/robot-movement/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\robot.dir\\robot.cpp.obj -c D:\\cococ\\robot-movement\\robot.cpp",
+  "file": "D:/cococ/robot-movement/robot.cpp",
+  "output": "D:/cococ/robot-movement/build/CMakeFiles/robot.dir/robot.cpp.obj"
+},
+{
+  "directory": "D:/cococ/robot-movement/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\robot.dir\\command.cpp.obj -c D:\\cococ\\robot-movement\\command.cpp",
+  "file": "D:/cococ/robot-movement/command.cpp",
+  "output": "D:/cococ/robot-movement/build/CMakeFiles/robot.dir/command.cpp.obj"
+}
+]
