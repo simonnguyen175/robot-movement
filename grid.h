@@ -10,7 +10,8 @@ class Grid {
     vector<vector<char>> cells; 
 
 public:
-    Grid(int n = 0); 
+    Grid() : n(0) {}
+    Grid(int nsize);
     void resize(int nsize); 
     void mark(int x, int y); 
     void print() const; 

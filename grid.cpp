@@ -11,6 +11,10 @@ int Grid::size() const {
 }
 
 void Grid::resize(int nsize) {
+    if (n > 0){
+        cerr << "Error: the grid has been initialized with size " << n << ", cannot resize to " << nsize << "\n";
+        return; 
+    }
     n = nsize; 
     cells.assign(n, vector<char>(n, '.')); 
 }
